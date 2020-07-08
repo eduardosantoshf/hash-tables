@@ -1,6 +1,6 @@
 # SecondAEDProject
 
-Implemented Hash table in C with both linked lists and binary trees using separate chaining 
+Implemented Hash table in C with both linked lists and binary trees using separate chaining.
 
 ## Course
 This project was developed under the [Algorithms and Data Structures](https://www.ua.pt/en/uc/12281) course of [University of Aveiro](https://www.ua.pt/).
