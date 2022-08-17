@@ -16,6 +16,9 @@ $ gcc test.c -o test
 $ ./test
 ```
 
+## Grade 
+This project's grade was **13** out of 20.
+
 ## Authors
 * **Eduardo Santos**: [eduardosantoshf](https://github.com/eduardosantoshf)
 * **Pedro Bastos**: [bastos-01](https://github.com/bastos-01)
